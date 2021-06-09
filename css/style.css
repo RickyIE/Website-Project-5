@@ -43,7 +43,7 @@ a {/*Hyperlinks manipulation   */
     }
 }
 .NavigationBar {/* sets properties inside the Navigation Bar   */
-    background: url("../Images/trees-1915245_1280.jpg") ;
+    background: url("../images/trees-1915245_1280.jpg") ;
     background-color: whitesmoke;/* Color for the whole Navigation Bar  */
     position: fixed;/* position will be fixed for the bar on top all the time  */
     width: 100%;/* stretches the navigation bar to the whole page width  */
@@ -59,7 +59,7 @@ a {/*Hyperlinks manipulation   */
     padding: 0; /* sets the margin and padding to 0 for a tight menu  */
     list-style:none; /* Clears the bullets from the hyperlinks  */
     overflow: hidden; /* Hides anything going out of bounds  */
-    background-image:url("../Images/MidRes/cocktail-1535518_1280 (1).jpg") ; /* Background  */
+    background-image:url("../images/MidRes/cocktail-1535518_1280 (1).jpg") ; /* Background  */
     background-size: cover ; /* stretches the image to cover the container*/
     border-radius: 20px; /* Curves drop down menu */
     border-bottom: 20px black solid;
@@ -108,7 +108,7 @@ a {/*Hyperlinks manipulation   */
 }
 
 .NavigationBar .Bar{/* will target element to form the menu icon on right hand side   */
-    background-image: url("../Images/LowRes/marble-surface-2341290.jpg");
+    background-image: url("../images/LowRes/marble-surface-2341290.jpg");
     background-position: center center;
     user-select: none;
     color: whitesmoke;
@@ -152,7 +152,7 @@ footer {
     position: relative;
     width: 100%;
     bottom: 0px;
-    background: url("../Images/LowRes/macro_shot_photograp_3XI0x.jpg");
+    background: url("../images/LowRes/macro_shot_photograp_3XI0x.jpg");
     background-size: cover;
     color: skyblue;
     text-shadow:
@@ -207,7 +207,7 @@ footer {
 
 
 
-/*----------------------------------------------------- CSS Grid   ----------------------------------------------   */
+/*----------------------------------------------------- css Grid   ----------------------------------------------   */
 
 .Grid {
     display: grid;
@@ -236,7 +236,7 @@ footer {
 .GridBrick2 {
     grid-column: 1/3;
     grid-row: 2/2;
-    background-image: url("../Images/LowRes/glass_1868045_1920.jpg");
+    background-image: url("../images/LowRes/glass_1868045_1920.jpg");
     filter: drop-shadow(30px 30px 30px black);
     opacity: 0.7;
     background-size: cover;
@@ -257,7 +257,7 @@ footer {
 .GridBrick4 {
     grid-column: 3/5;
     grid-row: 2/2;
-    background-image: url("../Images/LowRes/brick-wall-1916752_640.jpg");
+    background-image: url("../images/LowRes/brick-wall-1916752_640.jpg");
     filter: drop-shadow(30px 30px 30px black);
     background-size: cover;
     padding: 20px;
@@ -308,7 +308,7 @@ footer {
 .GridBrick8 {
     grid-column: 1/5;
     grid-row: 6/6;
-    background-image: url("../Images/MidRes/clear-glass-window-with-moist-effect-989941.jpg");
+    background-image: url("../images/MidRes/clear-glass-window-with-moist-effect-989941.jpg");
     opacity: 0.7;
     background-size: cover;
     filter: drop-shadow(30px 30px 30px black);
@@ -446,7 +446,7 @@ footer {
     color: black;
     font-size: 1.5em;
     font-style: italic;
-    background-image: url("../Images/LowRes/marble-surface-2341290.jpg");
+    background-image: url("../images/LowRes/marble-surface-2341290.jpg");
     filter: drop-shadow(30px 30px 30px black);
     overflow: hidden;
 }
@@ -469,7 +469,7 @@ footer {
     border: 2px lightblue solid;
 }
 
-/*----------------------------------------------------- CSS Grid   ----------------------------------------------   */
+/*----------------------------------------------------- css Grid   ----------------------------------------------   */
 
 
 /*----------------------------------------------------- Gallery   ----------------------------------------------   */
@@ -557,7 +557,7 @@ footer {
     top: 0;
     left: 0;
     filter: saturate(200%);
-    background-image: url("../Images/MidRes/clear-glass-window-with-moist-effect-989941.jpg");
+    background-image: url("../images/MidRes/clear-glass-window-with-moist-effect-989941.jpg");
     z-index: 1000;
 }
 
@@ -570,7 +570,7 @@ footer {
 /*----------------------------------------------------- Page 1 Style   ----------------------------------------------   */
 
 .P1Wrapper{
-    background: url('../Images/HiRes/Pic1.jpg');/* will allow for a responsive background to change
+    background: url('../images/HiRes/Pic1.jpg');/* will allow for a responsive background to change
     along with window resizing will also repeat if item overflow for any reason occurs to avoid white background*/
     background-size: cover ;
     background-position: center center;
@@ -601,7 +601,7 @@ footer {
     background-size: cover;
     filter: drop-shadow(30px 30px 30px black);
     overflow:hidden;
-    background-image: url("../Images/LowRes/bar-1869656_640.jpg");
+    background-image: url("../images/LowRes/bar-1869656_640.jpg");
     background-position: center center;
 
 }
@@ -619,32 +619,32 @@ footer {
 
 
 .P1Div2Sub1 {
-    background-image: url("../Images/LowRes/beer_advertising_271_RWfEr.jpg");
+    background-image: url("../images/LowRes/beer_advertising_271_RWfEr.jpg");
 }
 
 .P1Div4Sub1 {
-    background-image: url("../Images/LowRes/assorted-liquor-bottles-3566226 (2).jpg");
+    background-image: url("../images/LowRes/assorted-liquor-bottles-3566226 (2).jpg");
     border: lightblue 1px solid ;
 }
 
 .P1Div6Sub1 {
-    background-image: url("../Images/LowRes/Webp.net-compress-image (14).jpg");
+    background-image: url("../images/LowRes/Webp.net-compress-image (14).jpg");
 }
 
 .P1Div10Sub1 {
-    background-image: url("../Images/LowRes/Webp.net-compress-image (16).jpg");
+    background-image: url("../images/LowRes/Webp.net-compress-image (16).jpg");
 }
 
 .P1Div12Sub1 {
-    background-image: url("../Images/LowRes/alphabet-bar-blue-bright-316149.jpg");
+    background-image: url("../images/LowRes/alphabet-bar-blue-bright-316149.jpg");
 }
 
 .P1Div14Sub1 {
-    background-image: url("../Images/LowRes/bar-1869656_640.jpg");
+    background-image: url("../images/LowRes/bar-1869656_640.jpg");
 }
 
 .P1Div16Sub1 {
-    background-image: url("../Images/LowRes/assorted-wine-bottles-1283219.jpg");
+    background-image: url("../images/LowRes/assorted-wine-bottles-1283219.jpg");
 }
 
 
@@ -659,7 +659,7 @@ footer {
     background-size: cover;
     background-color: white;
     filter: drop-shadow(30px 30px 30px black);
-    background-image: url("../Images/LowRes/Webp.net-compress-image (13).jpg");
+    background-image: url("../images/LowRes/Webp.net-compress-image (13).jpg");
     border-radius: 20px;
     padding: 20px;
     text-shadow: 5px 5px 5px blue,
@@ -686,7 +686,7 @@ footer {
 /*   Page background    */
 
 .P2Wrapper{
-    background: url('../Images/HiRes/temple-bar-2344400_1920.jpg');/* will allow for a responsive background to change
+    background: url('../images/HiRes/temple-bar-2344400_1920.jpg');/* will allow for a responsive background to change
     along with window resizing will also repeat if item overflow for any reason occurs to avoid white background*/
     background-size: cover ;
     background-position: center center;
@@ -697,45 +697,45 @@ footer {
 /*      Top City Icon - iconic picture to represent city (no more than 300kb)    */
 
 #Dublin3 {
-    background-image: url("../Images/MidRes/bridge-230311_1920.jpg");
+    background-image: url("../images/MidRes/bridge-230311_1920.jpg");
 }
 
 /*    Gallery Banner  - memorial background for the gallery      */
 
 #Dublin6 {
-    background-image: url("../Images/MidRes/red-wine-1004255_1920.jpg");
+    background-image: url("../images/MidRes/red-wine-1004255_1920.jpg");
 }
 
 /*    Top 1 Picture - Pub or Restaurant Picture  picture  (no more than 150) */
 
 #Dublin11ContainerLeft{
-    background-image: url("../Images/LowRes/Dublin/brazenhead.jpg");
+    background-image: url("../images/LowRes/Dublin/brazenhead.jpg");
 }
 /* https://www.flickr.com/photos/jessiemoore/2423875052/ */
 
 /*    Top 2 Picture- Pub or Restaurant Picture  (no more than 150)     */
 
 #Dublin12ContainerLeft{
-    background-image: url("../Images/LowRes/Dublin/templebar.jpg");
+    background-image: url("../images/LowRes/Dublin/templebar.jpg");
 }
 /* https://pixabay.com/it/photos/temple-bar-pub-bar-birra-cafe-2344400/ */
 
 /*    Top 3 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Dublin13ContainerLeft{
-    background-image: url("../Images/LowRes/Dublin/thequays.jpg");
+    background-image: url("../images/LowRes/Dublin/thequays.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/8373257938 */
 
 /*    Top 4 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Dublin14ContainerLeft{
-    background-image: url("../Images/LowRes/Dublin/theoliver.jpg");
+    background-image: url("../images/LowRes/Dublin/theoliver.jpg");
 }
 /* https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gogarty.JPG/320px-Gogarty.JPG */
 
 #Dublin15ContainerLeft{
-    background-image: url("../Images/LowRes/Dublin/fitzsimons.jpg");
+    background-image: url("../images/LowRes/Dublin/fitzsimons.jpg");
 }
 /*   https://www.flickr.com/photos/infomatique/30297819262    */
 
@@ -749,7 +749,7 @@ footer {
 /*   Page background    */
 
 .P3Wrapper{
-    background: url('../Images/HiRes/cork-4686695_1920.jpg');/* https://pixabay.com/bg/photos/%D0%BA%D0%BE%D1%80%D0%BA-cork-%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F-cork-ireland-4686695/*/
+    background: url('../images/HiRes/cork-4686695_1920.jpg');/* https://pixabay.com/bg/photos/%D0%BA%D0%BE%D1%80%D0%BA-cork-%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F-cork-ireland-4686695/*/
     background-size: cover ;
     background-position: center center;
     background-attachment: fixed;
@@ -759,47 +759,47 @@ footer {
 /*      https://pixabay.com/bg/photos/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BA%D1%8A%D1%89%D0%B0-%D1%81%D1%82%D0%B0%D1%80-%D1%86%D1%8A%D1%80%D0%BA%D0%B2%D0%B0-3020932/    */
 
 #Cork3 {
-    background-image: url("../Images/MidRes/architecture-3020932_1280.jpg");
+    background-image: url("../images/MidRes/architecture-3020932_1280.jpg");
 }
 
 /*    https://www.pexels.com/photo/clear-glass-of-wine-935240/     */
 
 #Cork6 {
-    background-image: url("../Images/MidRes/clear-glass-of-wine-935240 (1).jpg");
+    background-image: url("../images/MidRes/clear-glass-of-wine-935240 (1).jpg");
 }
 
 /*    Top 1 Picture - Pub or Restaurant Picture  picture  (no more than 150) */
 
 #Cork11ContainerLeft{
-    background-image: url("../Images/LowRes/Cork/cantys.jpg");
+    background-image: url("../images/LowRes/Cork/cantys.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/7586595454 */
 
 /*    Top 2 Picture- Pub or Restaurant Picture  (no more than 150)     */
 
 #Cork12ContainerLeft{
-    background-image: url("../Images/LowRes/Cork/theraven.jpg");
+    background-image: url("../images/LowRes/Cork/theraven.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/5745017051 */
 
 /*    Top 3 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Cork13ContainerLeft{
-    background-image: url("../Images/LowRes/Cork/thepoorrelation.jpg");
+    background-image: url("../images/LowRes/Cork/thepoorrelation.jpg");
 }
 /* https://www.geograph.ie/reuse.php?id=4180339 */
 
 /*    Top 4 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Cork14ContainerLeft{
-    background-image: url("../Images/LowRes/Cork/jimcashman.jpg");
+    background-image: url("../images/LowRes/Cork/jimcashman.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/5741153379 */
 
 /*    Top 5 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Cork15ContainerLeft{
-    background-image: url("../Images/LowRes/Cork/larrytompkins.jpg");
+    background-image: url("../images/LowRes/Cork/larrytompkins.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/7586238894 */
 
@@ -813,7 +813,7 @@ footer {
 /*   Page background    */
 
 .P4Wrapper{
-    background: url('../Images/HiRes/Webp.net-compress-image (17).jpg');/* https://unsplash.com/s/photos/limerick*/
+    background: url('../images/HiRes/Webp.net-compress-image (17).jpg');/* https://unsplash.com/s/photos/limerick*/
     background-size: cover ;
     background-position: center center;
     background-attachment: fixed;
@@ -823,47 +823,47 @@ footer {
 /*      Top City Icon - iconic picture to represent city (no more than 300kb)    */
 
 #Limerick3 {
-    background-image: url("../Images/MidRes/road-4945159_1920.jpg");
+    background-image: url("../images/MidRes/road-4945159_1920.jpg");
 }
 
 /*    Gallery Banner  - memorial background for the gallery      */
 
 #Limerick6 {
-    background-image: url("../Images/MidRes/lime-907124_1920.jpg");
+    background-image: url("../images/MidRes/lime-907124_1920.jpg");
 }
 
 /*    Top 1 Picture - Pub or Restaurant Picture  picture  (no more than 150) */
 
 #Limerick11ContainerLeft{
-    background-image: url("../Images/LowRes/Limerick/fitzgerald.jpg");
+    background-image: url("../images/LowRes/Limerick/fitzgerald.jpg");
 }
 /* flickr.com/photos/infomatique/29994957556 */
 
 /*    Top 2 Picture- Pub or Restaurant Picture  (no more than 150)     */
 
 #Limerick12ContainerLeft{
-    background-image: url("../Images/LowRes/Limerick/blackswan.jpg");
+    background-image: url("../images/LowRes/Limerick/blackswan.jpg");
 }
 /* https://commons.wikimedia.org/wiki/File:Black_Swan_pub_sign.jpg */
 
 /*    Top 3 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Limerick13ContainerLeft{
-    background-image: url("../Images/LowRes/Limerick/costellos.jpg");
+    background-image: url("../images/LowRes/Limerick/costellos.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/14456599304 */
 
 /*    Top 4 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Limerick14ContainerLeft{
-    background-image: url("../Images/LowRes/Limerick/katie.jpg");
+    background-image: url("../images/LowRes/Limerick/katie.jpg");
 }
 /* https://www.geograph.ie/more.php?id=6058846 */
 
 /*    Top 5 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Limerick15ContainerLeft{
-    background-image: url("../Images/LowRes/Limerick/thelocke.jpg");
+    background-image: url("../images/LowRes/Limerick/thelocke.jpg");
 }
 /* https://www.flickr.com/photos/lynnmarie/7954776360 */
 
@@ -877,7 +877,7 @@ footer {
 /*   Page background    */
 
 .P5Wrapper{
-    background: url('../Images/HiRes/ireland-2214410_1920.jpg');/* https://pixabay.com/bg/photos/%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F-%D0%B3%D0%BE%D0%BB%D1%83%D0%B5%D0%B9-%D0%BA%D0%BB%D0%B5%D1%8A%D1%80-%D1%81%D0%BA%D0%B0%D0%BB%D0%B0-moher-2214410/*/
+    background: url('../images/HiRes/ireland-2214410_1920.jpg');/* https://pixabay.com/bg/photos/%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F-%D0%B3%D0%BE%D0%BB%D1%83%D0%B5%D0%B9-%D0%BA%D0%BB%D0%B5%D1%8A%D1%80-%D1%81%D0%BA%D0%B0%D0%BB%D0%B0-moher-2214410/*/
     background-size: cover ;
     background-position: center center;
     background-attachment: fixed;
@@ -887,40 +887,40 @@ footer {
 /*      https://pixabay.com/bg/photos/%D1%86%D1%8A%D1%80%D0%BA%D0%B2%D0%B0-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D0%B8-%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6-%D0%BD%D0%B5%D0%B1%D0%B5-4708942/    */
 
 #Galway3 {
-    background-image: url("../Images/MidRes/church-4708942_640.jpg");
+    background-image: url("../images/MidRes/church-4708942_640.jpg");
 }
 
 /*    https://pixabay.com/bg/photos/%D0%B2%D0%B8%D0%BD%D0%BE-%D0%BF%D0%BB%D1%8F%D1%81%D1%8A%D0%BA-%D1%81%D1%82%D1%8A%D0%BA%D0%BB%D0%BE-%D1%87%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE-%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB-1543170/      */
 
 #Galway6 {
-    background-image: url("../Images/MidRes/wine-1543170_1280.jpg");
+    background-image: url("../images/MidRes/wine-1543170_1280.jpg");
 }
 
 /*    Top 1 Picture - Pub or Restaurant Picture  picture  (no more than 150) */
 
 #Galway11ContainerLeft{
-    background-image: url("../Images/LowRes/Galway/johnkeogh.jpg");
+    background-image: url("../images/LowRes/Galway/johnkeogh.jpg");
 }
 /* https://www.flickr.com/photos/89641522@N08/26778477342 */
 
 /*    Top 2 Picture- Pub or Restaurant Picture  (no more than 150)     */
 
 #Galway12ContainerLeft{
-    background-image: url("../Images/LowRes/Galway/porterhouse.jpg");
+    background-image: url("../images/LowRes/Galway/porterhouse.jpg");
 }
 /* https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galway_-_Eyre_Square_-_The_Galway_Hostel_-_panoramio.jpg/320px-Galway_-_Eyre_Square_-_The_Galway_Hostel_-_panoramio.jpg */
 
 /*    Top 3 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Galway13ContainerLeft{
-    background-image: url("../Images/LowRes/Galway/taaffes.jpg");
+    background-image: url("../images/LowRes/Galway/taaffes.jpg");
 }
 /* https://www.geograph.ie/more.php?id=3024928 */
 
 /*    Top 4 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Galway14ContainerLeft{
-    background-image: url("../Images/LowRes/Galway/thequays.jpg");
+    background-image: url("../images/LowRes/Galway/thequays.jpg");
 }
 /* https://www.geograph.ie/more.php?id=3026707 */
 
@@ -928,7 +928,7 @@ footer {
 /*    Top 5 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Galway15ContainerLeft{
-    background-image: url("../Images/LowRes/Galway/sonnymoloys.jpg");
+    background-image: url("../images/LowRes/Galway/sonnymoloys.jpg");
 }
 /* https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Galway-Pub-12-Sonny_Molloy%27s-gje.jpg/320px-Galway-Pub-12-Sonny_Molloy%27s-gje.jpg */
 
@@ -943,7 +943,7 @@ footer {
 /*   Page background    */
 
 .P6Wrapper{
-    background: url('../Images/HiRes/1280px-Caoilfhionn_Hanton_Waterford_Walls_2018.jpg');/* https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Caoilfhionn_Hanton_Waterford_Walls_2018.jpg/1280px-Caoilfhionn_Hanton_Waterford_Walls_2018.jpg*/
+    background: url('../images/HiRes/1280px-Caoilfhionn_Hanton_Waterford_Walls_2018.jpg');/* https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Caoilfhionn_Hanton_Waterford_Walls_2018.jpg/1280px-Caoilfhionn_Hanton_Waterford_Walls_2018.jpg*/
     background-size: cover ;
     background-position: center center;
     background-attachment: fixed;
@@ -953,48 +953,48 @@ footer {
 /*      Top City Icon - iconic picture to represent city (no more than 300kb)    */
 
 #Waterford3 {
-    background-image: url("../Images/MidRes/ireland-4773567_640.jpg");
+    background-image: url("../images/MidRes/ireland-4773567_640.jpg");
 }
 
 /*    https://pixabay.com/bg/photos/%D1%87%D0%B0%D1%88%D0%B0-%D1%80%D0%B0%D0%BA%D0%B8%D1%8F-alcohol-2363152/      */
 
 #Waterford6 {
-    background-image: url("../Images/MidRes/cup-2363152_1280.jpg");
+    background-image: url("../images/MidRes/cup-2363152_1280.jpg");
     background-position: center center;
 }
 
 /*    Top 1 Picture - Pub or Restaurant Picture  picture  (no more than 150) */
 
 #Waterford11ContainerLeft{
-    background-image: url("../Images/LowRes/Waterford/covebar.jpg");
+    background-image: url("../images/LowRes/Waterford/covebar.jpg");
 }
 /* https://www.geograph.ie/more.php?id=5449556 */
 
 /*    Top 2 Picture- Pub or Restaurant Picture  (no more than 150)     */
 
 #Waterford12ContainerLeft{
-    background-image: url("../Images/LowRes/Waterford/thethree.jpg");
+    background-image: url("../images/LowRes/Waterford/thethree.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/27961174245 */
 
 /*    Top 3 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Waterford13ContainerLeft{
-    background-image: url("../Images/../Images/LowRes/Waterford/thelady.jpg");
+    background-image: url("../images/LowRes/Waterford/thelady.jpg");
 }
 /* https://www.geograph.ie/more.php?id=5854125 */
 
 /*    Top 4 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Waterford14ContainerLeft{
-    background-image: url("../Images/LowRes/Waterford/thdoolans.jpg");
+    background-image: url("../images/LowRes/Waterford/thdoolans.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/30475208641 */
 
 /*    Top 5 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Waterford15ContainerLeft{
-    background-image: url("../Images/LowRes/Waterford/themunster.jpg");
+    background-image: url("../images/LowRes/Waterford/themunster.jpg");
 }
 /* https://www.flickr.com/photos/firehuse999/34901003125/ */
 
@@ -1008,7 +1008,7 @@ footer {
 /*   Page background    */
 
 .P7Wrapper{
-    background: url('../Images/HiRes/cable-bridge-outside-drogheda-173733.jpg');/* https://www.pexels.com/photo/cable-bridge-outside-drogheda-173733/*/
+    background: url('../images/HiRes/cable-bridge-outside-drogheda-173733.jpg');/* https://www.pexels.com/photo/cable-bridge-outside-drogheda-173733/*/
     background-size: cover ;
     background-position: center center;
     background-attachment: fixed;
@@ -1018,47 +1018,47 @@ footer {
 /*      https://unsplash.com/photos/pDBPo8wSzUw   */
 
 #Drogheda3 {
-    background-image: url("../Images/MidRes/dimitry-anikin-pDBPo8wSzUw-unsplash.jpg");
+    background-image: url("../images/MidRes/dimitry-anikin-pDBPo8wSzUw-unsplash.jpg");
 }
 
 /*    Gallery Banner  - memorial background for the gallery      */
 
 #Drogheda6 {
-    background-image: url("../Images/MidRes/drink-3313606_1280.jpg");
+    background-image: url("../images/MidRes/drink-3313606_1280.jpg");
 }
 
 /*    Top 1 Picture - Pub or Restaurant Picture  picture  (no more than 150) */
 
 #Drogheda11ContainerLeft{
-    background-image: url("../Images/LowRes/Drogheda/thepunt.jpg");
+    background-image: url("../images/LowRes/Drogheda/thepunt.jpg");
 }
 /* https://www.geograph.ie/photo/4569573 */
 
 /*    Top 2 Picture- Pub or Restaurant Picture  (no more than 150)     */
 
 #Drogheda12ContainerLeft{
-    background-image: url("../Images/LowRes/Drogheda/mchuhgs.jpg");
+    background-image: url("../images/LowRes/Drogheda/mchuhgs.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/5638282769/in/album-72157606982900903/ */
 
 /*    Top 3 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Drogheda13ContainerLeft{
-    background-image: url("../Images/LowRes/Drogheda/clarkes.jpg");
+    background-image: url("../images/LowRes/Drogheda/clarkes.jpg");
 }
 /* https://www.geograph.ie/more.php?id=4571131 */
 
 /*    Top 4 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Drogheda14ContainerLeft{
-    background-image: url("../Images/LowRes/Drogheda/gleesons.jpg");
+    background-image: url("../images/LowRes/Drogheda/gleesons.jpg");
 }
 /* https://www.flickr.com/photos/infomatique/5634460648 */
 
 /*    Top 5 Picture- Pub or Restaurant Picture   (no more than 150)     */
 
 #Drogheda15ContainerLeft{
-    background-image: url("../Images/LowRes/Drogheda/millmount.jpg");
+    background-image: url("../images/LowRes/Drogheda/millmount.jpg");
 }
 /*  https://www.flickr.com/photos/infomatique/5638921152 */
 
@@ -1088,7 +1088,7 @@ footer {
 
 }
 .Grid1Sub1 {
-    background-image: url("../Images/HiRes/background-image-2066854_1920.jpg");
+    background-image: url("../images/HiRes/background-image-2066854_1920.jpg");
     background-size: cover;
     background-position: center center;
     overflow: hidden;
@@ -1116,7 +1116,7 @@ footer {
 
 }
 .Grid1Sub2 {
-    background-image: url("../Images/HiRes/Webp.net-compress-image (19).jpg");
+    background-image: url("../images/HiRes/Webp.net-compress-image (19).jpg");
     background-size: cover;
     background-position: top ;
     background-attachment: fixed;
@@ -1129,7 +1129,7 @@ footer {
 }
 
 .Grid1Sub3 {
-    background-image: url("../Images/HiRes/background-image-2066854_1920.jpg");
+    background-image: url("../images/HiRes/background-image-2066854_1920.jpg");
     background-size: cover;
     background-position: center center;
     overflow: hidden;
@@ -1157,7 +1157,7 @@ footer {
 }
 
 .Grid1Sub4 {
-    background-image: url("../Images/HiRes/blur-close-up-code-computer-546819.jpg");
+    background-image: url("../images/HiRes/blur-close-up-code-computer-546819.jpg");
     background-size: cover;
     background-position: top ;
     background-attachment: fixed;
@@ -1169,7 +1169,7 @@ footer {
 }
 
 .Grid1Sub5 {
-    background-image: url("../Images/HiRes/background-image-2066854_1920.jpg");
+    background-image: url("../images/HiRes/background-image-2066854_1920.jpg");
     background-size: cover;
     background-position: center center;
     overflow: hidden;
@@ -1197,7 +1197,7 @@ footer {
 
 }
 .Grid1Sub6 {
-    background-image: url("../Images/HiRes/lu.png");
+    background-image: url("../images/HiRes/lu.png");
     background-size: cover;
     background-position: top ;
     background-attachment: fixed;
@@ -1209,7 +1209,7 @@ footer {
 }
 
 .Grid1Sub7 {
-    background-image: url("../Images/HiRes/background-image-2066854_1920.jpg");
+    background-image: url("../images/HiRes/background-image-2066854_1920.jpg");
     background-size: cover;
     background-position: center center;
     overflow: hidden;
@@ -1237,7 +1237,7 @@ footer {
 }
 
 .Grid1Sub8 {
-    background-image: url("../Images/HiRes/coding-computer-data-depth-of-field-577585.jpg");
+    background-image: url("../images/HiRes/coding-computer-data-depth-of-field-577585.jpg");
     background-size: cover;
     background-position: top ;
     background-attachment: fixed;
@@ -1270,7 +1270,7 @@ footer {
 /*   Page background    */
 
 .P9Wrapper{
-    background: url('../Images/HiRes/sorry-we-re-closed-but-still-awesome-tag-1101720.jpg');/* will allow for a responsive background to change
+    background: url('../images/HiRes/sorry-we-re-closed-but-still-awesome-tag-1101720.jpg');/* will allow for a responsive background to change
     along with window resizing will also repeat if item overflow for any reason occurs to avoid white background*/
     width: 12800px;
     height: 8530px;
